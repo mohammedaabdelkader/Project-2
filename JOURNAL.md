@@ -13,3 +13,4 @@
 | Week 2 | Tier 1 | 0h | 0 |
 
 _No entries logged yet._
+This week, I wanted to create some parts to help me organize my desk. I first made an open box composed of 3 subparts to help me organize my electronics. The box took me a couple of hours to learn how to create a strong enough box and also to know how to extrude these dividers so the box is ok. 
